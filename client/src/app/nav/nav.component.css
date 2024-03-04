@@ -1,29 +1,3 @@
 .dropdown-toggle, .dropdown-item{
     cursor: pointer;
 }
-.dropdown-toggle{
-    background-color: #225566; /* Red background */
-    color: #ffffff; /* White text */
-} 
-
-.btn-primary {
-    --bs-btn-color: #fff; /* Text color */
-    --bs-btn-bg: #386776; /* Background color */
-    --bs-btn-border-color: #386776; /* Border color */
-    --bs-btn-hover-color: #fff; /* Hover text color */
-    --bs-btn-hover-bg: #386776; /* Hover background color */
-    --bs-btn-hover-border-color: #386776; /* Hover border color */
-    --bs-btn-focus-shadow-rgb: 255,0,0; /* Focus shadow color */
-    --bs-btn-active-color: #fff; /* Active text color */
-    --bs-btn-active-bg: #386776; /* Active background color */
-    --bs-btn-active-border-color: #386776; /* Active border color */
-    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125); /* Active shadow */
-    --bs-btn-disabled-color: #fff; /* Disabled text color */
-    --bs-btn-disabled-bg: #386776; /* Disabled background color */
-    --bs-btn-disabled-border-color: #386776; /* Disabled border color */
-}
-
-.dropdown-menu{
-    --bs-dropdown-link-active-bg: #386776;
-    --bs-dropdown-link-hover-color: #386776; 
-}
