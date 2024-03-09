@@ -1,7 +1,3 @@
 .dropdown-toggle, .dropdown-item{
     cursor: pointer;
 }
-
-.btn-secondary {
-    --bs-btn-bg: green;
-}
