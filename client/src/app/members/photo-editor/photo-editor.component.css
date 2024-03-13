@@ -1,0 +1,12 @@
+.upload-data {
+    --bs-table-bg: transparent;
+}
+
+.nv-file-over {
+    border: dotted 3px rgb(115, 0, 255);
+    
+}
+
+input[type=file] {
+    color: transparent
+}
