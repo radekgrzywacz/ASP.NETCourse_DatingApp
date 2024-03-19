@@ -1,0 +1,23 @@
+.tr-row {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  font-size: 18px;
+  opacity: 0.7;
+  transition: 0.4s;
+  text-align: start;
+}
+
+.tr-row:hover{
+    opacity: 1;
+}
+
+.text-align-top {vertical-align: top;}
+
+.text-align-center {
+    padding-top: 10px
+}
+
+.img-circle{
+    max-height: 50px;
+}
